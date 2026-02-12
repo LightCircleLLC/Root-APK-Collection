@@ -4,8 +4,8 @@ This repository is a mirror for the Root Android application. It provides untouc
 # ⚖️Legal Disclaimer
 This repository serves as a community-driven mirror.
 
-**Ownership**: All rights, titles, and intellectual property belong to the original developers of the Root application.
+- **Ownership**: All rights, titles, and intellectual property belong to the original developers of the Root application.
 
-**No Warranty**: These APKs are provided "as-is." Use them at your own risk.
+- **No Warranty**: These APKs are provided "as-is." Use them at your own risk.
 
-**Fair Use**: This mirror is intended for users restricted by regional or store-front limitations. Please support the official release channels where available.
+- **Fair Use**: This mirror is intended for users restricted by regional or store-front limitations. Please support the official release channels where available.
